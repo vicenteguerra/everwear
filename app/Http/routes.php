@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 Route::get('/panic', 'PanicController@index');
 
-Route::post('/panic', 'PanicController@store');
+Route::post('/panic', 'PanicController@sendPanicAlert');
 
 /*
 |--------------------------------------------------------------------------
