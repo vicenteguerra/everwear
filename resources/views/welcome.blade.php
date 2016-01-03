@@ -16,6 +16,8 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
+                background-color: #006390;
+                color: #FFF;
                 font-family: 'Lato';
             }
 
@@ -33,14 +35,18 @@
             .title {
                 font-size: 96px;
             }
+
+            img{
+                width: 400px;
+            }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Everwear</div>
-                <h2>Everywhere Everwear</h2>
-                <h3>Services</h3>
+                <img src="img/everwear-logo.png" alt="logo">
+                <h2>Everywhere, Everwear</h2>
+                <h3>Everwear Services</h3>
             </div>
         </div>
     </body>
