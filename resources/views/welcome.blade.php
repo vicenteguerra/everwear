@@ -65,19 +65,19 @@
                     <section id="two" class="wrapper alt style2">
 
                         <section class="spotlight">
-                            <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+                            <div class="image"><img src="https://static.pexels.com/photos/8657/lake-nyon-eva.jpeg" alt="" /></div><div class="content">
                                 <h2>Feel comfortable</h2>
                                 <p>Everwear fits in almost every jacket you want to wear, so let's welcome spring, summer, fall, winter and a lot of fun!</p>
                             </div>
                         </section>
                         <section class="spotlight">
-                            <div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+                            <div class="image"><img src="https://static.pexels.com/photos/4078/healthy-person-woman-sport.jpg" alt="" /></div><div class="content">
                                 <h2>Fitness</h2>
                                 <p>Everwear can give useful data for you to take care of yourself. So, if you like running or walking you can check out how many calories you've burned.</p>
                             </div>
                         </section>
                         <section class="spotlight">
-                            <div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+                            <div class="image"><img src="https://static.pexels.com/photos/6413/people-eyes-playing-young.jpg" alt="" /></div><div class="content">
                                 <h2>It is always about security</h2>
                                 <p>All electronic components in everwear are isolated from humidity<br />
                                     and sweat. You won't be worried about dying because an electric shock, you will worry just to have fun.</p>
